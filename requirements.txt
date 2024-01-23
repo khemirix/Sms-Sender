@@ -1,0 +1,5 @@
+customtkinter==5.1.1
+getmac==0.8.3
+Requests==2.31.0
+twilio==6.54.0
+vonage==3.3.0
